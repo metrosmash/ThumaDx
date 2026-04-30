@@ -36,7 +36,8 @@ By the time data reaches a district supervisor, the window to intervene has ofte
 **ThumaDx changes that.**
 
 ---
-
+![ThumaDx logo icon](images/thumadx.png)
+---
 ## What ThumaDx Does
 
 ThumaDx is a multi-modal clinical decision support platform that puts the diagnostic intelligence of a district hospital into the hands of a CHV in the field.
