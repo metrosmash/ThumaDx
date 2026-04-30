@@ -1,0 +1,6 @@
+{
+  "name": "ThumaDx",
+  "description": "Clinical decision support tool for Community Health Volunteers (CHVs) in rural West Africa, providing rapid triage for acute malaria and pneumonia while integrating computer vision data for malnutrition assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
